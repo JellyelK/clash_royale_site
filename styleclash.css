@@ -74,11 +74,12 @@ section{
     margin-bottom: 10px;
 }
 .hero-text h1{
-    font-family: 'Sriracha', cursive;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1.2px;
     font-size: 80px;
     line-height: 1;
     color: white;
-    margin: 0 0 20px;
+    margin: 0 0 15px;
 }
 .hero-text h4{
     font-family: 'Poppins', sans-serif;
